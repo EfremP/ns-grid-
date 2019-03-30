@@ -148,6 +148,7 @@ html {
   }
   
   .footer {
-    background: yellow;
+    background: rgb(73, 228, 26);
     display: flex;
+
   }
